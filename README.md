@@ -1,2 +1,2 @@
-# cs32
-Data Structure Projects
+# CS32 - Data Structures
+Data Structure Machine Problems and Exercises
